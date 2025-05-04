@@ -1,4 +1,4 @@
-# Rust Projects
+# Rust
 
 This repository contains various Rust projects and examples.
 
